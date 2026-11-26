@@ -1,14 +1,14 @@
 {
-  "latestVersion": "1.2.0",
+  "latestVersion": "1.0.0",
   "releaseDate": "2026-11-22",
-  "downloadUrl": "https://github.com/<you>/aether/releases/download/v1.2.0/AetherSetup-1.2.0.exe",
+  "downloadUrl": "",
   "fileSizeBytes": 48234496,
   "installerArgs": "",
-  "releaseNotesUrl": "https://github.com/<you>/aether/releases/tag/v1.2.0",
+  "releaseNotesUrl": "",
   "changelog": [
-    { "type": "New",      "text": "Hybrid multi-network downloads" },
-    { "type": "New",      "text": "Firefox browser integration with session cookies" },
-    { "type": "Improved", "text": "Queue scheduling and priority handling" },
-    { "type": "Fixed",    "text": "Resume reliability after network loss" }
+    { "type": "New",      "text": "na" },
+    { "type": "New",      "text": "na" },
+    { "type": "Improved", "text": "na" },
+    { "type": "Fixed",    "text": "na" }
   ]
 }
